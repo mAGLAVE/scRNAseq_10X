@@ -1,0 +1,1 @@
+Here will be explained how to interpret the results of the pipeline
